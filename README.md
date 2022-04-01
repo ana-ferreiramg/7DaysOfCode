@@ -38,8 +38,6 @@ if (COMPARAR O numeroDez e a stringDez) {
 </details>
 
 <br>
-<hr>
-<br>
 
 ## 📌 Desafio 2:
 
